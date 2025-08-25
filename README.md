@@ -1,6 +1,6 @@
 ## Hi there, I'm Manuel 👋
 
-I'm a Freshman pursuing a Computer Science Degree at [Rollins College](https://www.rollins.edu) in Winter Park, FL.
+I'm a First-year Computer Science student @ [Rollins College](https://www.rollins.edu) in Winter Park, FL.
 
 <!--
 **manuhora/manuhora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
